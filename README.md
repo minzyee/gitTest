@@ -1,7 +1,7 @@
 # gitTest
 
 
-```
+```mermaid
    graph TD
         A[하루 시작] -->|일어난다| B(세수한다)
         B --> C{오늘은 무엇을 할까}
